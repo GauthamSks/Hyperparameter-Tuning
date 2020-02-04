@@ -1,3 +1,3 @@
 ## <p style="text-align: center;">Hyperparameter Tuning</p>
 
-**ABSTRACT**<p style="text-align: center;"> OPTIMIZE A SIMPLE THREE LAYERED FEED-FORWARD NEURAL NETWORK AND PERFORM HYPERPARAMETER TUNING IN ORDER TO OBTAIN A HIGH-PERFORMING MODEL. THE MNIST-IRIS DATASET SHALL BE USED FOR THIS DEMONSTRATION. HERE WE SHALL BE TUNING OUR MODEL BASED ON TRAINING VS VALIDATION ERROR PLOTS </p>
+**ABSTRACT**<p style="text-align: center;"> Optimize A Simple Three Layered Feed-forward Neural Network And Perform Hyperparameter Tuning In Order To Obtain A High-performing Model. The MNIST-IRIS Dataset Shall Be Used For This Demonstration. Here We Shall Be Tuning Our Model Based On Training Vs Validation Error Plots  </p>

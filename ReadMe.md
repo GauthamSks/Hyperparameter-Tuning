@@ -1,3 +1,3 @@
-## <p style="text-align: center;">HyperParameter Tuning</p>
+## <p style="text-align: center;">Hyperparameter Tuning</p>
 
-<p style="text-align: center;">In this Jupyter notebook, we will be optimizing a simple three layered Feed-Forward Neural Network and perform hyperparameter tuning in order to obtain a high-performing model. The simple MNIST-IRIS dataset will be used for this demonstration. We shall be tuning our Model based on Training Vs Validation Error plots </p>
+**ABSTRACT**<p style="text-align: center;"> OPTIMIZE A SIMPLE THREE LAYERED FEED-FORWARD NEURAL NETWORK AND PERFORM HYPERPARAMETER TUNING IN ORDER TO OBTAIN A HIGH-PERFORMING MODEL. THE MNIST-IRIS DATASET SHALL BE USED FOR THIS DEMONSTRATION. HERE WE SHALL BE TUNING OUR MODEL BASED ON TRAINING VS VALIDATION ERROR PLOTS </p>
